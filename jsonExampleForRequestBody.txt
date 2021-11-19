@@ -1,0 +1,12 @@
+{
+    "busTicketEntries": [
+        {
+            "passengerType": 0,
+            "luggageCount": 2
+        },
+        {
+            "passengerType": 1,
+            "luggageCount": 1
+        }
+    ]
+}
